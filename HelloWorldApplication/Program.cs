@@ -8,7 +8,7 @@ namespace HelloWorldApplication
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Hello World..1");
             Console.ReadKey();
